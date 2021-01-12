@@ -11,3 +11,6 @@ PROBLEM OF THE CODE:
    
    
   This code is just for reference using ffmpeg, youtube-dl for future use.
+  
+  this code is using (shell script) using Ipython
+   which is adaptable to linux.
